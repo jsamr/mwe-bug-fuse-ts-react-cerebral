@@ -1,6 +1,6 @@
 # FuseBox + TS + React + Cerebral bug 'Super expression must either be null or a function, not undefined', MWE
 
-
+![image](https://user-images.githubusercontent.com/3646758/31048346-20301112-a5e9-11e7-8fe0-a9522fbfe073.png)
 
 This MWE, based on `react-typescript` (`fuse-box-examples`) provides a basis to understand the issue.
 
