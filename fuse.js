@@ -18,7 +18,7 @@ Sparky.task("config", () => {
         output: "dist/$name.js",
         tsConfig: "tsconfig.json",
         useJsNext : ["react", "react-dom"],
-        polyfillNonStandardDefaultUsage : ["react", "react-dom"],
+        polyfillNonStandardDefaultUsage : true,
         sourceMaps: true,
         plugins: [
             TypeScriptHelpers(),
